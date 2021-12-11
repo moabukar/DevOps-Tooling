@@ -24,10 +24,11 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 
 
 ## Productivity tooling: 
-1. [VS Code](https://code.visualstudio.com/download) - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.
+1. [VS Code](https://code.visualstudio.com/download) - use the link to install or "brew install --cask visual-studio-code". Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.
+1. [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/)
 1. [iTerm2](https://iterm2.com/) - or "brew install iterm2" . iTerm2 is a replacement for Terminal and the successor to iTerm
 1. [zsh](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh". Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
-1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - (Oh My Zsh is an open source, community-driven framework for managing your zsh configuration)
+1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh" (Oh My Zsh is an open source, community-driven framework for managing your zsh configuration)
 1. [Notion](https://www.notion.so/desktop) - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.
 1. [Magnet for Mac](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) - An app used to move and resize windows with ease 
 1. [Spectacle App](https://www.spectacleapp.com/) -  Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.
