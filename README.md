@@ -31,6 +31,7 @@
 - [Pyenv - Pyenv lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv) - "brew install pyenv"
 - [TLDR - Simplified and community-driven man pages](https://tldr.sh/) - "npm install -g tldr"
 - [jq - Lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) - "brew install jq"
+- [tmux - Terminal multiplexer. It lets you switch easily between several programs in one terminal](https://github.com/tmux/tmux/wiki/Installing) - "brew install tmux"
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
