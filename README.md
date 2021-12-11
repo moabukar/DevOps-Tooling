@@ -7,11 +7,11 @@
 ### Currently setup for macOS* - Coming soon for Windows & Linux
 
 ### Note:
-- Install Brew on your macOS first. Type on your commannd line "brew install <PACKAGE_NAME>
-- Most of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
+- Install Brew on your macOS first. Type on your commannd line "brew update" & then install the required tool "brew install <PACKAGE_NAME>
+- Most of the tooling can be used by using the brew package manager or other CLI tools suggested below in "". If not, use the links provided to navigate to the installation page of the tool.
 - Also note that some of these tools mentioned in Productivity can be subjective based on each individual.
 
-## Technical tooling
+## Technical tooling & CLI
 - [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
@@ -29,6 +29,8 @@
 - [Postgres app](https://postgresapp.com/)
 - [TFenv - Terraform version manager](https://github.com/tfutils/tfenv) - "brew install tfenv"
 - [Pyenv - Pyenv lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv) - "brew install pyenv"
+- [TLDR - Simplified and community-driven man pages](https://tldr.sh/) - "npm install -g tldr"
+- [jq - Lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) - "brew install jq"
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
