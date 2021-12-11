@@ -27,6 +27,8 @@
 - [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
 - [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
 - [Postgres app](https://postgresapp.com/)
+- [TFenv - Terraform version manager](https://github.com/tfutils/tfenv) - "brew install tfenv"
+- [Pyenv - Pyenv lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv) - "brew install pyenv"
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
