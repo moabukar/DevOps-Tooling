@@ -21,7 +21,7 @@
 - [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 - [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 - [Python](https://www.python.org/downloads/) - "brew install python3"
-- [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
+- [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/) - "brew install postman"
 - [GoLang -  The Go Programming Language](https://go.dev/doc/install) - "brew install go"
 - [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
 - [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
