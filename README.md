@@ -20,14 +20,16 @@
 1. [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
 1. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
-1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
+1. [Python](https://www.python.org/downloads/) - "brew install python3"
 1. [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
 1. [GoLang -  The Go Programming Language](https://go.dev/doc/install)
-
+1. [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
+1. [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
+1. []()
 
 ## Productivity tooling: 
 1. [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
-1. [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/)
+1. [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/) - "brew install --cask jetbrains-toolbox"
 1. [iTerm2 - iTerm2 is a replacement for Terminal and the successor to iTerm](https://iterm2.com/) - "brew install iterm2"
 1. [zsh - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh"
 1. [ohmyzsh - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh"
@@ -39,7 +41,6 @@
 ## Other useful links:
 
 - [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
-- 
 
 ## Coming soon - in the works
 - A script that installs all the toolings (ones that can be automated)
