@@ -6,16 +6,16 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 
 ### *Currently setup for macOS* - Coming soon: for Windows & Linux
 
-### Installation steps:
+### Note:
 - Install Brew on your macOS first.
 - some of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
 
 ## Technical tooling
 1. [Brew](https://brew.sh/) - this package manager will be used to install various toolings later
-1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - or run "brew install awscli"
-1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - or "brew install terraform"
-1. [Docker Desktop](https://www.docker.com/products/docker-desktop) - soon to upload an alternative for Docker Desktop (Podman? Containerd?)
-1. [Kubernetes CLI]() - the famous K8s container orchestator
+1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - run "brew install awscli"
+1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
+1. [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
+1. [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
 1. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
@@ -42,7 +42,7 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 
 ## Coming soon - in the works
 - A script that installs all the toolings (ones that can be automated)
-- a script that installs useful VS code extensions?
+- A script that installs useful VS code extensions?
 - for Windows & Linux
 - Alternative to Docker Desktop?? Containerd? Podman? - Open to suggestions.
 
