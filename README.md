@@ -2,9 +2,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # DevOps-Tooling
-A repo containing toolings and software useful for a DevOps Engineer (or if you're setting up your Mac from the beginning)
+*A repo containing toolings and software useful for a DevOps Engineer (or if you're setting up your Mac from the beginning)*
 
-### *Currently setup for macOS* - Coming soon: for Windows & Linux
+### Currently setup for macOS* - Coming soon for Windows & Linux
 
 ### Note:
 - Install Brew on your macOS first.
