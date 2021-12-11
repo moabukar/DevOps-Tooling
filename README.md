@@ -24,16 +24,15 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 
 
 ## Productivity tooling: 
-1. [VS Code](https://code.visualstudio.com/download) - use the link to install or "brew install --cask visual-studio-code". Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.
+1. [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
 1. [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/)
-1. [iTerm2](https://iterm2.com/) - or "brew install iterm2" . iTerm2 is a replacement for Terminal and the successor to iTerm
-1. [zsh](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh". Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
-1. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh" (Oh My Zsh is an open source, community-driven framework for managing your zsh configuration)
-1. [Notion](https://www.notion.so/desktop) - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.
-1. [Magnet for Mac](https://apps.apple.com/gb/app/magnet/id441258766?mt=12) - An app used to move and resize windows with ease 
-1. [Spectacle App](https://www.spectacleapp.com/) -  Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.
-1. [Aerial Companion ScreenSaver](https://aerialscreensaver.github.io/) - Aerial is a free and open-source Mac screen saver.
-1. []() - 
+1. [iTerm2 - iTerm2 is a replacement for Terminal and the successor to iTerm](https://iterm2.com/) - "brew install iterm2"
+1. [zsh - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh"
+1. [ohmyzsh - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh"
+1. [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) 
+1. [Magnet for Mac - An app used to move and resize windows with ease ](https://apps.apple.com/gb/app/magnet/id441258766?mt=12)
+1. [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
+1. [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
 
 ## Other useful links:
 
