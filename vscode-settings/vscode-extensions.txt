@@ -1,0 +1,13 @@
+ms-python.python
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+4ops.terraform
+pkief.material-icon-theme
+ms-kubernetes-tools.vscode-kubernetes-tools
+amazonwebservices.aws-toolkit-vscode
+ms-vscode.azure-account
+ms-vscode.azurecli
+redhat.vscode-yaml
+davidanson.vscode-markdownlint
+eamodio.gitlens
+golang.go
