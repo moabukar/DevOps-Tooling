@@ -1,0 +1,3 @@
+# A task file that install the toolings. 
+# 1. task --list
+# 2. task <SPECIFY_TASK>
