@@ -7,8 +7,8 @@
 ### Currently setup for macOS* - Coming soon for Windows & Linux
 
 ### Note:
-- Install Brew on your macOS first.
-- some of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
+- Install Brew on your macOS first. Type on your commannd line "brew install <PACKAGE_NAME>
+- Most of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
 
 ## Technical tooling
 - [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
@@ -34,7 +34,7 @@
 - [iTerm2 - iTerm2 is a replacement for Terminal and the successor to iTerm](https://iterm2.com/) - "brew install iterm2"
 - [zsh - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh"
 - [ohmyzsh - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh"
-- [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) 
+- [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) - "brew install --cask notion"
 - [Magnet for Mac - An app used to move and resize windows with ease ](https://apps.apple.com/gb/app/magnet/id441258766?mt=12)
 - [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
 - [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
