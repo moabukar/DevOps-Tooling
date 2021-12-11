@@ -11,33 +11,33 @@
 - some of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
 
 ## Technical tooling
-1. [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
-1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
-1. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
-1. [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
-1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
-1. [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
-1. [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
-1. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
-1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
-1. [Python](https://www.python.org/downloads/) - "brew install python3"
-1. [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
-1. [GoLang -  The Go Programming Language](https://go.dev/doc/install) - "brew install go"
-1. [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
+- [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
+- [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
+- [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
+- [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
+- [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
+- [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
+- [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
+- [Python](https://www.python.org/downloads/) - "brew install python3"
+- [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
+- [GoLang -  The Go Programming Language](https://go.dev/doc/install) - "brew install go"
+- [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
 - [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
--  [Postgres app](https://postgresapp.com/)
--  []()
+- [Postgres app](https://postgresapp.com/)
+- []()
 
 ## Productivity tooling: 
-1. [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
-1. [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/) - "brew install --cask jetbrains-toolbox"
-1. [iTerm2 - iTerm2 is a replacement for Terminal and the successor to iTerm](https://iterm2.com/) - "brew install iterm2"
-1. [zsh - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh"
-1. [ohmyzsh - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh"
-1. [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) 
-1. [Magnet for Mac - An app used to move and resize windows with ease ](https://apps.apple.com/gb/app/magnet/id441258766?mt=12)
-1. [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
-1. [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
+- [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
+- [JetBrains Toolbox - IDE manager, used to install IntelliJ IDE and others like PyCharm](https://www.jetbrains.com/toolbox-app/) - "brew install --cask jetbrains-toolbox"
+- [iTerm2 - iTerm2 is a replacement for Terminal and the successor to iTerm](https://iterm2.com/) - "brew install iterm2"
+- [zsh - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.](https://github.com/ohmyzsh/ohmyzsh) - "brew install zsh"
+- [ohmyzsh - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh) - "brew install ohmyzsh"
+- [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) 
+- [Magnet for Mac - An app used to move and resize windows with ease ](https://apps.apple.com/gb/app/magnet/id441258766?mt=12)
+- [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
+- [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
 
 ## Other useful links:
 
