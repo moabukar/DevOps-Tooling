@@ -9,6 +9,7 @@
 ### Note:
 - Install Brew on your macOS first. Type on your commannd line "brew install <PACKAGE_NAME>
 - Most of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
+- Also note that some of these tools mentioned in Productivity can be subjective based on each individual.
 
 ## Technical tooling
 - [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
