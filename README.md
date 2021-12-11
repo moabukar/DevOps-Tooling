@@ -48,7 +48,8 @@
 ## Coming soon - in the works
 - A script that installs all the toolings (ones that can be automated)
 - A script that installs useful VS code extensions?
-- for Windows & Linux
+- A setup for Windows & Linux
 - Alternative to Docker Desktop?? Containerd? Podman? - Open to suggestions.
+- Organise the repo into sub-categories & general organisation.
 
 ## Open to contributions
