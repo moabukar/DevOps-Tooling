@@ -15,14 +15,14 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - run "brew install awscli"
 1. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
 1. [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
-3. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
-4. [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
-5. [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
-6. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
-7. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
-8. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
-9. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
-10. [GoLang -  The Go Programming Language](https://go.dev/doc/install)
+1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
+1. [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
+1. [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
+1. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
+1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
+1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
+1. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
+1. [GoLang -  The Go Programming Language](https://go.dev/doc/install)
 
 
 ## Productivity tooling: 
