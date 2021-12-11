@@ -11,8 +11,8 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 1. [Brew](https://brew.sh/) - this package manager will be used to install various toolings later
 1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - or run "brew install awscli"
 1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - or "brew install terraform"
-1. [Docker Desktop]() - soon to upload an alternative for Racnher Desktop
-1. [Kubernetes]() - the famous K8s container orchestator
+1. [Docker Desktop](https://www.docker.com/products/docker-desktop) - soon to upload an alternative for Docker Desktop (Podman? Containerd?)
+1. [Kubernetes CLI]() - the famous K8s container orchestator
 1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
 1. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
 1. [GoLang](https://go.dev/doc/install) - The Go Programming Language
@@ -33,7 +33,9 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 - [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
 - 
 
-## In the works
+## Coming soon - in the works
 - A script that installs all the toolings (ones that can be automated)
+- for Windows & Linux
+- Alternative to Docker Desktop
 
 ## Open to contributions
