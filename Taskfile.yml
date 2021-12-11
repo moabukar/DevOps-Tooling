@@ -1,3 +1,35 @@
 # A task file that install the toolings. 
 # 1. task --list
 # 2. task <SPECIFY_TASK>
+
+# https://taskfile.dev
+
+version: '3'
+
+silent: true
+
+tasks:
+  brew:
+    desc: Installs brew
+    cmds:
+      - curl ...
+      - wget ...
+
+  terraform:
+    desc: does this
+    cmds:
+      - brew install terraform
+
+  brew2:
+    desc: does this
+    deps:
+      # dependencies
+      # - kubectl
+    cmds:
+      # sequentially executed dependencies
+      - task: 
+
+  kubectl:
+    desc: Installs kubectl
+    cmds:
+      - brew install kubectl
