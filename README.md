@@ -16,9 +16,11 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - or "brew install terraform"
 1. [Docker Desktop](https://www.docker.com/products/docker-desktop) - soon to upload an alternative for Docker Desktop (Podman? Containerd?)
 1. [Kubernetes CLI]() - the famous K8s container orchestator
-1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
-1. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
-1. [GoLang](https://go.dev/doc/install) - The Go Programming Language
+1. [Kind - local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - or "brew install kind"
+1. [minikube - Local K8s cluster]()
+3. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
+4. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
+5. [GoLang](https://go.dev/doc/install) - The Go Programming Language
 
 
 ## Productivity tooling: 
@@ -39,6 +41,7 @@ A repo containing toolings and software useful for a DevOps Engineer (or if you'
 
 ## Coming soon - in the works
 - A script that installs all the toolings (ones that can be automated)
+- a script that installs useful VS code extensions?
 - for Windows & Linux
 - Alternative to Docker Desktop?? Containerd? Podman? - Open to suggestions.
 
