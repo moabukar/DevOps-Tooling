@@ -22,10 +22,11 @@
 1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 1. [Python](https://www.python.org/downloads/) - "brew install python3"
 1. [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
-1. [GoLang -  The Go Programming Language](https://go.dev/doc/install)
+1. [GoLang -  The Go Programming Language](https://go.dev/doc/install) - "brew install go"
 1. [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
-1. [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
-1. []()
+- [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
+-  [Postgres app](https://postgresapp.com/)
+-  []()
 
 ## Productivity tooling: 
 1. [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
