@@ -1,10 +1,12 @@
-#Installation
+# Installation
 
-```bash
+```python
 #Run the python script
 python install-extensions.py
 ```
+## Extensions 
 
+VSCode extensions that will be installed:
 - python
 - vscode-docker
 - remote-containers
