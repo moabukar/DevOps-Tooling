@@ -4,8 +4,7 @@
 # DevOps-Tooling
 A repo containing toolings and software useful for a DevOps Engineer (or if you're setting up your Mac from the beginning)
 
-### *Currently setup for macOS* and we aim to add more links for Windows + Linux*
-- Coming soon: for Windows & Linux
+### *Currently setup for macOS* - Coming soon: for Windows & Linux
 
 ### Installation steps:
 - Install Brew on your macOS first.
