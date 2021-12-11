@@ -7,7 +7,7 @@
 ### Currently setup for macOS* - Coming soon for Windows & Linux
 
 ### Note:
-- Install Brew on your macOS first. Type on your commannd line "brew update" & then install the required tool "brew install <PACKAGE_NAME>
+- Install Brew on your macOS first. Type on your command line "brew update" & then install the required tool "brew install <PACKAGE_NAME>
 - Most of the tooling can be used by using the brew package manager or other CLI tools suggested below in "". If not, use the links provided to navigate to the installation page of the tool.
 - Also note that some of these tools mentioned in Productivity can be subjective based on each individual.
 
