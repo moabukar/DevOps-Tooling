@@ -11,8 +11,8 @@
 - some of the tooling can be used by using the brew package manager. If not, use the links provided to navigate to the installation page of the tool.
 
 ## Technical tooling
-1. [Brew](https://brew.sh/) - this package manager will be used to install various toolings later
-1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - run "brew install awscli"
+1. [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
+1. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
 1. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
 1. [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
 1. [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
@@ -21,7 +21,7 @@
 1. [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 1. [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 1. [Python]() - this one is usually installed by default on Mac - only if you're looking to update the version or change it
-1. [Postman](https://www.postman.com/downloads/) - Postman is an application used for API testing
+1. [Postman - Postman is an application used for API testing](https://www.postman.com/downloads/)
 1. [GoLang -  The Go Programming Language](https://go.dev/doc/install)
 
 
