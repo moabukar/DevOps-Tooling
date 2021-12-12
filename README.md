@@ -46,9 +46,23 @@ To install Homebrew :
 - [tmux - Terminal multiplexer. It lets you switch easily between several programs in one terminal](https://github.com/tmux/tmux/wiki/Installing) - "brew install tmux"
 
 ## Container & Security focused tools
-- [kubectx]() -
-- [kubens]() - 
-- [Anchore-CLI]() -
+- [kubectx]() - "brew install kubectx"
+- [kubens]() - "brew install kubens"
+- [Anchore-CLI](https://github.com/anchore/anchore-cli) - 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```sh
+sudo easy_install pip
+pip install --user anchorecli
+export PATH=${PATH}:${HOME}/Library/Python/2.7/bin
+```
 - [Trivy]() - 
 - [K9s ]() - 
 - [Falco]() - 
