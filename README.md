@@ -51,8 +51,8 @@ To install Homebrew :
 - [Anchore-CLI](https://github.com/anchore/anchore-cli) - 
 ```sh
 sudo easy_install pip
-pip install --user anchorecli
-export PATH=${PATH}:${HOME}/Library/Python/2.7/bin
+pip3 install --user anchorecli
+export PATH=${PATH}:${HOME}/Library/Python/3.9/bin
 ```
 - [Trivy]() - 
 - [K9s ]() - 
