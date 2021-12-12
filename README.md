@@ -31,6 +31,7 @@
 - [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
 - [Postgres app](https://postgresapp.com/)
 - [Taskfile - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make](https://taskfile.dev/#/) - "brew install task"
+- [ArgoCD CLI - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes](https://argo-cd.readthedocs.io/en/stable/cli_installation/) - "brew install argocd"
 - Trivy? Anchore CLI? Kube-bench? Kubesec? Checkov? Spacelift? Add more CLI tools..
 
 ## Other useful CLIs (supplementary)
