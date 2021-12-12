@@ -11,8 +11,10 @@
 - Most of the tooling can be used by using the brew package manager or other CLI tools suggested below in "". If not, use the links provided to navigate to the installation page of the tool.
 - Also note that some of these tools mentioned in Productivity can be subjective based on each individual.
 
-## Technical tooling & CLI
+## Package manager
 - [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
+
+## Technical tooling & CLI (main)
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
 - [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
@@ -27,13 +29,15 @@
 - [NodeJS - The JavaScript framework](https://nodejs.org/en/download/) - "brew install node"
 - [Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) - "python -m pip install --user ansible"
 - [Postgres app](https://postgresapp.com/)
+- [Taskfile - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make](https://taskfile.dev/#/) - "brew install task"
+- Trivy? Anchore CLI? Kube-bench? Kubesec? Checkov? Spacelift? Add more CLI tools..
+
+## Other useful CLIs (supplementary)
 - [TFenv - Terraform version manager](https://github.com/tfutils/tfenv) - "brew install tfenv"
 - [Pyenv - Pyenv lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv) - "brew install pyenv"
 - [TLDR - Simplified and community-driven man pages](https://tldr.sh/) - "npm install -g tldr"
 - [jq - Lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) - "brew install jq"
 - [tmux - Terminal multiplexer. It lets you switch easily between several programs in one terminal](https://github.com/tmux/tmux/wiki/Installing) - "brew install tmux"
-- [Taskfile - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make](https://taskfile.dev/#/) - "brew install task"
-- Trivy? Anchore CLI? Kube-bench? Kubesec? Checkov? Spacelift? Add more CLI tools..
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
