@@ -13,6 +13,10 @@
 
 ## Package manager
 - [HomeBrew - this package manager will be used to install various toolings later](https://brew.sh/)
+To install Homebrew :
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 ## Technical tooling & CLI (main)
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
