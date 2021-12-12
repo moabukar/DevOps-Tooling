@@ -21,6 +21,7 @@
 - [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
 - [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?](https://www.docker.com/products/docker-desktop) 
 - [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
+- [Helm - packagae manager for K8s]() - 
 - [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 - [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 - [Python](https://www.python.org/downloads/) - "brew install python3"
@@ -38,6 +39,17 @@
 - [TLDR - Simplified and community-driven man pages](https://tldr.sh/) - "npm install -g tldr"
 - [jq - Lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) - "brew install jq"
 - [tmux - Terminal multiplexer. It lets you switch easily between several programs in one terminal](https://github.com/tmux/tmux/wiki/Installing) - "brew install tmux"
+
+## Container focused tools
+- [kubectx]() -
+- [kubens]() - 
+- [Anchore-CLI]() -
+- [Trivy]() - 
+- [K9s ]() - 
+- [Falco]() - 
+- [kube-monkey]()
+- [kubesec]() - 
+- []()
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
