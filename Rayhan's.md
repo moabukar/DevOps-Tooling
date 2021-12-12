@@ -1,4 +1,4 @@
-# Rayhans must have apps for Macbook
+# A Battery health app for your Macbook
 
 ## AlDente
 ### Prevent your battery from being overcooked 
