@@ -40,7 +40,7 @@
 - [jq - Lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) - "brew install jq"
 - [tmux - Terminal multiplexer. It lets you switch easily between several programs in one terminal](https://github.com/tmux/tmux/wiki/Installing) - "brew install tmux"
 
-## Container focused tools
+## Container & Security focused tools
 - [kubectx]() -
 - [kubens]() - 
 - [Anchore-CLI]() -
@@ -49,7 +49,9 @@
 - [Falco]() - 
 - [kube-monkey]()
 - [kubesec]() - 
-- []()
+- [Terrascan]() -
+- [Clair]() -
+- [Checkov]() -
 
 ## Productivity tooling: 
 - [VS Code - Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.](https://code.visualstudio.com/download) - use link or "brew install --cask visual-studio-code".
