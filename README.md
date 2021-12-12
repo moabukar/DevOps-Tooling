@@ -54,7 +54,7 @@ sudo easy_install pip
 pip3 install --user anchorecli
 export PATH=${PATH}:${HOME}/Library/Python/3.9/bin
 ```
-- [Trivy]() - 
+- [Trivy](https://aquasecurity.github.io/trivy/v0.18.3/installation/) - " brew install aquasecurity/trivy/trivy"
 - [K9s ]() - 
 - [Falco]() - 
 - [kube-monkey]()
