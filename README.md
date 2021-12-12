@@ -49,15 +49,6 @@ To install Homebrew :
 - [kubectx]() - "brew install kubectx"
 - [kubens]() - "brew install kubens"
 - [Anchore-CLI](https://github.com/anchore/anchore-cli) - 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 ```sh
 sudo easy_install pip
 pip install --user anchorecli
@@ -94,3 +85,14 @@ export PATH=${PATH}:${HOME}/Library/Python/2.7/bin
 - Organise the repo into sub-categories & general organisation.
 
 ## Open to contributions
+
+## Layout for collapsible section in README
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
