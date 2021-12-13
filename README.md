@@ -76,7 +76,8 @@ export PATH=${PATH}:${HOME}/Library/Python/3.9/bin
 - [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
 
 ## Dotfile-settings
-- [My Dotfile settings](./dotfiles) 
+- [GitConfig settings](./dotfiles/.gitconfig) 
+- [Zshrc settings](./dotfiles/.zshrc) 
 
 ## Other useful links:
 
