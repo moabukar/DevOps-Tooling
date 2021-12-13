@@ -26,7 +26,7 @@ To install Homebrew :
 - [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
 - [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?)](https://www.docker.com/products/docker-desktop) 
 - [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
-- [Helm - packagae manager for K8s](https://helm.sh/docs/intro/install/) - "brew install helm"
+- [Helm - package manager for K8s](https://helm.sh/docs/intro/install/) - "brew install helm"
 - [Kind - Local K8s cluster](https://kind.sigs.k8s.io/docs/user/quick-start/) - "brew install kind" & "kind create cluster --name kind-cluster"
 - [minikube - Local K8s cluster](https://minikube.sigs.k8s.io/docs/start/) - "brew install minikube" & "minikube start"
 - [Python](https://www.python.org/downloads/) - "brew install python3"
