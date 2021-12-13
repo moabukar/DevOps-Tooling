@@ -75,6 +75,9 @@ export PATH=${PATH}:${HOME}/Library/Python/3.9/bin
 - [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
 - [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
 
+## Dotfile-settings
+- [My Dotfile settings]() 
+
 ## Other useful links:
 
 - [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
