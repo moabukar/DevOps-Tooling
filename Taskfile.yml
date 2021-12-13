@@ -12,24 +12,33 @@ tasks:
   brew:
     desc: Installs brew
     cmds:
-      - curl ...
-      - wget ...
-
+      - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   terraform:
-    desc: does this
+    desc: installs Terraform
+    deps:
+      # dependencies
+      - task: brew
     cmds:
       - brew install terraform
 
-  brew2:
-    desc: does this
+  git:
+    desc: installs git
     deps:
-      # dependencies
-      # - kubectl
+      - brew
     cmds:
       # sequentially executed dependencies
-      - task: 
+      - brew install git 
 
   kubectl:
     desc: Installs kubectl
+    deps:
+      - brew
     cmds:
       - brew install kubectl
+      
+  python3:
+    desc: Installs python3
+    deps:
+      - brew
+    cmds:
+      - brew install python3
