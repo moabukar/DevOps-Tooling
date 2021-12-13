@@ -22,6 +22,7 @@ To install Homebrew :
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - "brew install awscli"
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos) - "brew install azure-cli"
 - [GCP SDK](https://cloud.google.com/sdk/docs/install) - "brew install --cask google-cloud-sdk"
+- [Git CLI](https://git-scm.com/download/mac) - "brew install git"
 - [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) - "brew install terraform"
 - [Docker Desktop - soon to upload an alternative for Docker Desktop (Podman? Containerd?)](https://www.docker.com/products/docker-desktop) 
 - [Kubernetes CLI - the famous K8s container orchestator](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) - "brew install kubectl"
