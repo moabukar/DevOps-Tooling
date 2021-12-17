@@ -73,6 +73,9 @@ export PATH=${PATH}:${HOME}/Library/Python/3.9/bin
 - [Notion - Notion is a notetaking software and project management software that is used for note-taking, task management, project management, knowledge management, and personal knowledge management.](https://www.notion.so/desktop) - "brew install --cask notion"
 - [Magnet for Mac - An app used to move and resize windows with ease ](https://apps.apple.com/gb/app/magnet/id441258766?mt=12)
 - [Spectacle App - Basically, a free version of Magnet. Important note: Spectacle is no longer being actively maintained.](https://www.spectacleapp.com/)
+- [Tree - Display directories as trees (with optional color/HTML output)](http://mama.indstate.edu/users/ice/tree/) "brew install tree"
+
+## Other Mac softwares (optional)
 - [Aerial Companion ScreenSaver - Aerial is a free and open-source Mac screen saver](https://aerialscreensaver.github.io/) 
 
 ## Dotfile-settings
