@@ -22,8 +22,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 alias k=kubectl
 complete -F __start_kubectl k
-alias k=kubectl
-complete -F __start_kubectl k
 [[ /opt/homebrew/bin/kubectl ]] && source <(kubectl completion zsh)
 
 # pyenv
@@ -36,10 +34,8 @@ fi
 
 # Go
 if which go >/dev/null; then
-  export GOPATH=$(go env GOPATH)
   export GOROOT=$(go env GOROOT)
   export GOBIN=$GOPATH/bin
-  echo $PATH | grep -q $GOPATH/bin || export PATH=$GOPATH/bin:$PATH
   echo $PATH | grep -q $GOROOT/bin || export PATH=$GOROOT/bin:$PATH
 fi
 
